@@ -1,0 +1,12 @@
+c22da6f89165177ff7ba6b4eac3afb92 *DESCRIPTION
+7c4a894b4256fe22966e43eb0187e62e *NAMESPACE
+03b4064377072a2f8ff944cef1fc2785 *R/RcppExports.R
+465822c4e048f1cbcfc9a453001773cd *R/fastQuantile.R
+b7b0fefc2d047c3ba6a834619312006d *build/partial.rdb
+7b76144cdc5a15c040ecc3d1d9f613c3 *man/fastQuantile.Rd
+b17e79bbb975127a2348d5917dc6f011 *man/linearQ-package.Rd
+8d9986267b96e0a02481676945cb6d31 *src/RcppExports.cpp
+1f56f13a034747382c1a91d2e6f9da8a *src/auxFun.cpp
+f62d5e8705ecc805de46e9f8e2bbf20c *src/auxFun.h
+756887113e370bfb842f969f3d18f795 *src/constrMinkowskiSum.cpp
+4f8eb2eb2277bb30414e4aee11572ba9 *src/mstat.cpp
