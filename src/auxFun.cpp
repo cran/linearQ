@@ -13,7 +13,7 @@ bool cw(double p1x1, double p1x2, double p2x1, double p2x2, double p3x1, double 
 
 // penalized normal
 double pNorm(double s, int l, int n) {
-  return abs(s)/sqrt(double(l)) - sqrt(2+2*log(double(n)/double(l)));
+  return fabs(s)/sqrt(double(l)) - sqrt(2+2*log(double(n)/double(l)));
 }
 double ubPenNorm(double s, int l, int n, double q) {
   return s/double(l) + (q + sqrt(2+2*log(double(n)/double(l))))/sqrt(double(l));
